@@ -1,5 +1,7 @@
 package dhondt;
 
+import dhondt.vo.PoliticalPartyListVo;
+
 /**
  * Execute DÅfHondt rule
  *
@@ -8,5 +10,6 @@ package dhondt;
  */
 public class DhondtMain {
 
-	
+	private PoliticalPartyListVo vos;
+
 }
